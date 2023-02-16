@@ -2,7 +2,7 @@
 name = "test-task-rishat"
 version = "0.1.0"
 description = "Test task from \"Rishat\" company"
-authors = ["Mikhail Orlov <crazyminer398@gmail.com>"]
+authors = ["Mikhail Orlov <mikhailorlov398@gmail.com>"]
 readme = "README.md"
 packages = [{include = "test_task_rishat"}]
 

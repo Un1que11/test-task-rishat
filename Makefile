@@ -12,3 +12,6 @@ dev:
 
 start:
 		poetry run gunicorn test_task_rishat.wsgi
+
+migrate:
+		poetry run python manage.py migrate
